@@ -1,0 +1,57 @@
+[
+  {
+    "url": "https://tis.edu.in/",
+    "status": 200,
+    "finalUrl": "https://tis.edu.in/"
+  },
+  {
+    "url": "https://admission.tis.edu.in/",
+    "status": 200,
+    "finalUrl": "https://admission.tis.edu.in/"
+  },
+  {
+    "url": "https://tis.edu.in/about-tis/why-choose-us/",
+    "status": 200,
+    "finalUrl": "https://tis.edu.in/about-tis/why-choose-us/"
+  },
+  {
+    "url": "https://tis.edu.in/about-tis/awards-achievements/",
+    "status": 200,
+    "finalUrl": "https://tis.edu.in/about-tis/awards-achievements/"
+  },
+  {
+    "url": "https://tis.edu.in/academics/streams-offered/",
+    "status": 200,
+    "finalUrl": "https://tis.edu.in/academics/streams-offered/"
+  },
+  {
+    "url": "https://tis.edu.in/boarding-life/facilities/",
+    "status": 200,
+    "finalUrl": "https://tis.edu.in/boarding-life/facilities/"
+  },
+  {
+    "url": "https://tis.edu.in/beyond-academics/clubs-and-societies/",
+    "status": 200,
+    "finalUrl": "https://tis.edu.in/beyond-academics/clubs-and-societies/"
+  },
+  {
+    "url": "https://tis.edu.in/privacy-policy/",
+    "status": 200,
+    "finalUrl": "https://tis.edu.in/privacy-policy/"
+  },
+  {
+    "url": "https://tis.edu.in/terms-conditions/",
+    "status": 200,
+    "finalUrl": "https://tis.edu.in/terms-conditions/"
+  },
+  {
+    "url": "https://tis.edu.in/MandatoryPDF/TIS_BROCHURE.pdf",
+    "status": 200,
+    "finalUrl": "https://tis.edu.in/MandatoryPDF/TIS_BROCHURE.pdf"
+  },
+  {
+    "url": "https://maps.app.goo.gl/maBF8syXueQkw31E6",
+    "status": 200,
+    "finalUrl": "https://www.google.com/maps/place/Tula's+International+School/@30.3430336,77.8891652,17z/data=!3m1!4b1!4m6!3m5!1s0x390f2a8f6621db6d:0xb5df8a7bd77caf7d!8m2!3d30.3430336!4d77.8891652!16s%2Fm%2F0121_pmh?entry=tts&g_ep=EgoyMDI0MTIxMS4wIPu8ASoASAFQAw%3D%3D"
+  }
+]

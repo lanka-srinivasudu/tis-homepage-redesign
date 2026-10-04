@@ -1,0 +1,57 @@
+[
+  {
+    "name": "hero",
+    "url": "https://tis.edu.in/_next/static/media/school.29985869.png",
+    "page": "https://tis.edu.in/about-tis/our-history/",
+    "widths": [640, 1200, 1920]
+  },
+  {
+    "name": "library",
+    "url": "https://tis.edu.in/_next/static/media/FacilitiesHeader.e10c91d7.jpg",
+    "page": "https://tis.edu.in/boarding-life/facilities",
+    "widths": [640, 1200]
+  },
+  {
+    "name": "boarding",
+    "url": "https://tis.edu.in/_next/static/media/cycling.80dbb9b1.png",
+    "page": "https://tis.edu.in/",
+    "widths": [640, 1200]
+  },
+  {
+    "name": "archery",
+    "url": "https://tis.edu.in/_next/static/media/archery.7a805345.png",
+    "page": "https://tis.edu.in/",
+    "widths": [640, 1200]
+  },
+  {
+    "name": "swimming",
+    "url": "https://tis.edu.in/_next/static/media/swimming.d4285534.png",
+    "page": "https://tis.edu.in/",
+    "widths": [640, 1200]
+  },
+  {
+    "name": "riding",
+    "url": "https://tis.edu.in/_next/static/media/horseRiding.8f259127.png",
+    "page": "https://tis.edu.in/",
+    "widths": [640, 1200]
+  },
+  {
+    "name": "logo",
+    "url": "https://tis.edu.in/_next/static/media/schoolLogo.95f6e121.png",
+    "page": "https://tis.edu.in/",
+    "file": "logo.png",
+    "width": 180
+  },
+  {
+    "name": "footer-logo",
+    "url": "https://tis.edu.in/_next/static/media/footer-logo.230b79ff.png",
+    "page": "https://tis.edu.in/",
+    "file": "footer-logo.png"
+  },
+  {
+    "name": "favicon",
+    "url": "https://tis.edu.in/favicon.ico",
+    "page": "https://tis.edu.in/",
+    "file": "../favicon.ico"
+  }
+]
