@@ -4,9 +4,9 @@ A responsive school homepage assessment built around TIS's official identity, ph
 
 **GitHub repository:** https://github.com/lanka-srinivasudu/tis-homepage-redesign
 
-**Live deployment:** `[PLACEHOLDER — add live deployment URL]`
+**Live demo:** https://tis-homepage-redesign-five-rosy.vercel.app/
 
-This is an independent assessment preview, not a replacement for the official school website. It has not been published or deployed.
+This is an independently deployed assessment preview, not a replacement for the official school website.
 
 ## Stack
 
@@ -117,7 +117,7 @@ To refresh assets from the recorded official URLs (optional; included assets alr
 npm run assets:refresh
 ```
 
-This requires network access and regenerates files in `public/images/`. School photographs and branding remain the property of their owners. Confirm reuse permission before public deployment.
+This requires network access and regenerates files in `public/images/`. School photographs and branding remain the property of their owners. Confirm school approval for continued public reuse.
 
 ## Verification
 
@@ -132,12 +132,8 @@ Verification was performed on 4 October 2026:
 
 The reduced-motion component test uses a mocked media preference with real Framer Motion rendering. The connected browser does not expose motion-preference emulation, so an OS-level reduced-motion visual pass was not performed. This is documented rather than claimed as a browser pass. No real admissions form, OTP, call, email or payment was submitted. No cross-browser or physical-device certification is implied.
 
-## Deploy to Vercel when approved
+## Vercel deployment
 
-1. Push updates to the GitHub repository linked above.
-2. In Vercel, choose **Add New → Project** and import the repository.
-3. Select **Vite**. Set install command to `npm ci`, build command to `npm run build`, output directory to `dist`, and a supported Node version (24, at least 24.15).
-4. Leave environment variables empty. This is a static single-page homepage with anchor navigation; no rewrite configuration is required.
-5. Deploy only after review and permission to publish school assets. Test the generated preview URL, then replace the live deployment placeholder.
+The current production demo is available at https://tis-homepage-redesign-five-rosy.vercel.app/.
 
-No Vercel deployment has been created as part of this assessment.
+The Vercel project uses this GitHub repository with the Vite framework preset. Its install command is `npm ci`, build command is `npm run build`, and output directory is `dist`. It requires no environment variables or rewrite configuration. Push reviewed changes to `main` to trigger the connected deployment workflow, then verify the live demo after Vercel finishes building.
